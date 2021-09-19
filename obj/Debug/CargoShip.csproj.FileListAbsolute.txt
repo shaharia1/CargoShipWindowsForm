@@ -1,0 +1,10 @@
+D:\Project\Interview-project\CargoShip\obj\Debug\CargoShip.csproj.AssemblyReference.cache
+D:\Project\Interview-project\CargoShip\obj\Debug\CargoShip.Form1.resources
+D:\Project\Interview-project\CargoShip\obj\Debug\CargoShip.Properties.Resources.resources
+D:\Project\Interview-project\CargoShip\obj\Debug\CargoShip.csproj.GenerateResource.cache
+D:\Project\Interview-project\CargoShip\obj\Debug\CargoShip.csproj.CoreCompileInputs.cache
+D:\Project\Interview-project\CargoShip\bin\Debug\CargoShip.exe.config
+D:\Project\Interview-project\CargoShip\bin\Debug\CargoShip.exe
+D:\Project\Interview-project\CargoShip\bin\Debug\CargoShip.pdb
+D:\Project\Interview-project\CargoShip\obj\Debug\CargoShip.exe
+D:\Project\Interview-project\CargoShip\obj\Debug\CargoShip.pdb
